@@ -1,4 +1,4 @@
-# Credit Card-Approval Prediction-Analysis with ETL using Airflow
+# Credit Card Application Dashboard
 
 ## Background 
 This data engineering project is designed to analyze Credit-Card-Application-Dashboard using the Extract, Transform, Load (ETL) process with Airflow workflow management tool. The aim is to assist organizations in enhancing the efficiency of the credit card approval process by leveraging the power of data processing and workflow automation.
