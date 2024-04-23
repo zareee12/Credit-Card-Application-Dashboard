@@ -25,3 +25,23 @@ Datasets and data dictionary can be found in [here](https://www.kaggle.com/datas
 - PostgreeSQL
 - looker Studio
 - Python
+  
+  # Project Instruction
+Prerequisites
+- [Python](https://www.python.org/downloads/)
+- [Docker](https://www.docker.com/)
+- [Airflow](https://airflow.apache.org/)
+- [Postgres](https://dbeaver.io/download/)
+- [Looker](https://lookerstudio.google.com/u/0/navigation/reporting)
+
+Guide
+1. Clone This Repo.
+2. Run make docker-build for x86 user, or make docker-build-arm for arm chip user.
+3. Airflow
+   - docker-compose up -d
+4. Login Airflow : http://localhost:8080
+   - username : airflow
+   - passowrd : airflow
+5. Run Dags
+ 
+
