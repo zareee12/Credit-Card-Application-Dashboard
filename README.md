@@ -26,7 +26,7 @@ Datasets and data dictionary can be found in [here](https://www.kaggle.com/datas
 - looker Studio
 - Python
   
-  # Project Instruction
+# Project Instruction
 Prerequisites
 - [Python](https://www.python.org/downloads/)
 - [Docker](https://www.docker.com/)
