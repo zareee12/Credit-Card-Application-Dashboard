@@ -1,7 +1,7 @@
 # Credit Card-Approval Prediction-Analysis with ETL using Airflow
 
 ## Background 
-This data engineering project is designed to analyze credit card approval predictions using the Extract, Transform, Load (ETL) process with Airflow workflow management tool. The aim is to assist organizations in enhancing the efficiency of the credit card approval process by leveraging the power of data processing and workflow automation.
+This data engineering project is designed to analyze Credit-Card-Application-Dashboard using the Extract, Transform, Load (ETL) process with Airflow workflow management tool. The aim is to assist organizations in enhancing the efficiency of the credit card approval process by leveraging the power of data processing and workflow automation.
 
 ## About The Data 
 Credit scoring cards serve as a prevalent risk management technique within the financial sector. They leverage personal details and information provided by credit card applicants to forecast the likelihood of future defaults and credit card usage. Consequently, financial institutions are empowered to determine whether to extend credit card privileges to applicants. These credit scores offer an objective means to quantify the level of risk.
