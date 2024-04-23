@@ -20,7 +20,7 @@ Datasets and data dictionary can be found in [here](https://www.kaggle.com/datas
 
 # Tools
 - Docker
-- Airflow
+- Airflow : Batch Processing
 - Dbeaver
 - PostgreeSQL
 - looker Studio
