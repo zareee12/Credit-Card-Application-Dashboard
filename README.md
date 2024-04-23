@@ -11,3 +11,7 @@ Datasets and data dictionary can be found in [here](https://www.kaggle.com/datas
 
 # Data Pipeline
 ![Alt Text](https://github.com/zareee12/Credit-Card-Approval-Prediction-Analysis-with-ETL-using-Airflow/blob/main/images/Data%20Pipeline.png)
+
+# Dashboard
+![Alt Text]()
+
